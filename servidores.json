@@ -1,0 +1,20 @@
+{
+  "versao": 1,
+  "servidores": {
+    "tvs": {
+      "nome": "Tvs",
+      "urls": [
+        "COLE_AQUI_A_URL_PRINCIPAL_DO_TVS",
+        "COLE_AQUI_UMA_URL_RESERVA_DO_TVS"
+      ]
+    },
+    "topuhd": {
+      "nome": "Top uhd",
+      "urls": [
+        "COLE_AQUI_A_URL_PRINCIPAL_DO_TOP_UHD",
+        "COLE_AQUI_UMA_URL_RESERVA_DO_TOP_UHD"
+      ]
+    }
+  },
+  "dns": ["8.8.8.8", "1.1.1.1"]
+}
