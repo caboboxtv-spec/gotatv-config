@@ -4,14 +4,14 @@
     "tvs": {
       "nome": "Tvs",
       "urls": [
-        "COLE_AQUI_A_URL_PRINCIPAL_DO_TVS",
+        "http://ackermantop.net",
         "COLE_AQUI_UMA_URL_RESERVA_DO_TVS"
       ]
     },
     "topuhd": {
       "nome": "Top uhd",
       "urls": [
-        "COLE_AQUI_A_URL_PRINCIPAL_DO_TOP_UHD",
+        "http://ckknow.site:8080",
         "COLE_AQUI_UMA_URL_RESERVA_DO_TOP_UHD"
       ]
     }
