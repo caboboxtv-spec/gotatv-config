@@ -1,0 +1,7 @@
+{
+  "versao": 5,
+  "versao_minima": 4,
+  "url": "https://github.com/caboboxtv-spec/gotatv-config/releases/download/v1.5/GOTVPLAY-1.5-test.apk",
+  "obrigatoria": false,
+  "mensagem": "Nova versão do GOTV PLAY disponível para atualização."
+}
