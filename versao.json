@@ -1,7 +1,7 @@
 {
-  "versao": 7,
+  "versao": 8,
   "versao_minima": 4,
-  "url": "https://github.com/caboboxtv-spec/gotatv-config/releases/download/v1.7/GOTVPLAY-1.7-retomar-versao.apk",
+  "url": "https://github.com/caboboxtv-spec/gotatv-config/releases/download/v1.8/GOTVPLAY-1.8-detalhes-retomada.apk",
   "obrigatoria": false,
-  "mensagem": "Nova versão GOTV PLAY 1.7: retome de onde parou, veja episódios assistidos e confira a versão na abertura."
+  "mensagem": "Correção disponível: tela de detalhes com imagem e sinopse, episódios assistidos e opção de continuar de onde parou."
 }
