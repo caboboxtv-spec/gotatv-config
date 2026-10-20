@@ -1,7 +1,7 @@
 {
   "versao": 6,
   "versao_minima": 4,
-  "url": "https://github.com/caboboxtv-spec/GotvPlay/releases/download/v1.6/GOTVPLAY-1.6-favoritos-sinopse.apk",
+  "url": "https://github.com/caboboxtv-spec/gotatv-config/releases/download/v1.6/GOTVPLAY-1.6-favoritos-sinopse.apk",
   "obrigatoria": false,
   "mensagem": "Nova versão do GOTV PLAY disponível: pesquisa, favoritos e sinopse para filmes e séries."
 }
