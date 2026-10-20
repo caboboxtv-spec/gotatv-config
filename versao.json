@@ -1,7 +1,7 @@
 {
   "versao": 10,
   "versao_minima": 4,
-  "url": "https://github.com/caboboxtv-spec/gotatv-config/releases/download/v1.10/GOTVPLAY-1.10.apk",
+  "url": "https://github.com/caboboxtv-spec/gotatv-config/releases/download/v1.10/GOTVPLAY-1.10-filmes-reproducao-corrigida.apk",
   "obrigatoria": false,
   "mensagem": "Atualização GOTV PLAY 1.10: corrigida a reprodução de filmes e mantidas as melhorias de séries, detalhes, favoritos, retomada e bloqueio adulto."
 }
