@@ -1,7 +1,7 @@
 {
-  "versao": 8,
+  "versao": 9,
   "versao_minima": 4,
-  "url": "https://github.com/caboboxtv-spec/gotatv-config/releases/download/v1.8/GOTVPLAY-1.8-detalhes-retomada.apk",
+  "url": "https://github.com/caboboxtv-spec/gotatv-config/releases/download/v1.9/GOTVPLAY-1.9-bloqueio-adulto.apk",
   "obrigatoria": false,
-  "mensagem": "Correção disponível: tela de detalhes com imagem e sinopse, episódios assistidos e opção de continuar de onde parou."
+  "mensagem": "Atualização GOTV PLAY 1.9: conteúdos adultos protegidos pela senha padrão 0000."
 }
